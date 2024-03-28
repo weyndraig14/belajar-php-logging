@@ -1,0 +1,8 @@
+{"message":"Belajar PHP Logging",
+"context":{"username":"xsx"},
+"level":200,"level_name":"INFO",
+"channel":"agung\\Belajar\\PHP\\MVC\\FormatterTest",
+"datetime":"2024-03-25T00:03:38.335538+07:00",
+"extra":{"hostname":"XsX",
+"memory_usage":"4 MB",
+"git":[]}}
